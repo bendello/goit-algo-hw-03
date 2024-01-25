@@ -9,4 +9,4 @@ def get_numbers_ticket(min, max, quantity):
         else:
             return[]
 lottery_numbers = get_numbers_ticket(1, 49, 6)
-print(lottery_numbers)
+print("Your lottery numbers are: ", lottery_numbers)
