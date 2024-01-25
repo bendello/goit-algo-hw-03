@@ -1,4 +1,4 @@
-#Home work 3
+#Home work 3 1st
 from datetime import datetime
 
 def get_days_from_today(date):
